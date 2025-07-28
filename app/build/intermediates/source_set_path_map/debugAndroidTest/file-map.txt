@@ -1,0 +1,5 @@
+com.example.voipsim.test.app-jetified-core-1.6.1-0 C:\Users\GI0080\.gradle\caches\8.9\transforms\087f7e58c2bd1dd934a0c3576e832130\transformed\jetified-core-1.6.1\res
+com.example.voipsim.test.app-androidTest-1 D:\NHAI Doc\VoIPSim\app\build\generated\res\resValues\androidTest\debug
+com.example.voipsim.test.app-mergeDebugAndroidTestResources-2 D:\NHAI Doc\VoIPSim\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.voipsim.test.app-mergeDebugAndroidTestResources-3 D:\NHAI Doc\VoIPSim\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.voipsim.test.app-merged_res-4 D:\NHAI Doc\VoIPSim\app\build\intermediates\merged_res\debugAndroidTest

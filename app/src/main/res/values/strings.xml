@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VoIPSim</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="answer">Answer</string>
+    <string name="reject">Reject</string>
+    <string name="end_call">End Call</string>
+    <string name="missed_call">Missed Call</string>
+    <string name="call_from">Call from %1$s</string>
+    <string name="schedule_call">Schedule Test Call</string>
+    <string name="label_caller">Caller</string>
+    <string name="label_time">Time</string>
+    <string name="label_type">Type</string>
+    <string name="label_duration">Duration</string>
+    <string name="permission_required">This app needs notification permission to simulate calls.</string>
+</resources>

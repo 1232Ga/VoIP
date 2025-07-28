@@ -1,0 +1,42 @@
+com.example.voipsim.app-jetified-core-ktx-1.13.1-0 C:\Users\GI0080\.gradle\caches\8.9\transforms\03d104bf54c851b6cbe2e4c1d773d7f2\transformed\jetified-core-ktx-1.13.1\res
+com.example.voipsim.app-cardview-1.0.0-1 C:\Users\GI0080\.gradle\caches\8.9\transforms\0d7f0b78774f192849db07b3ce152c15\transformed\cardview-1.0.0\res
+com.example.voipsim.app-coordinatorlayout-1.1.0-2 C:\Users\GI0080\.gradle\caches\8.9\transforms\0ed382ff49a2f48ec25a27afc6c1b4fd\transformed\coordinatorlayout-1.1.0\res
+com.example.voipsim.app-jetified-annotation-experimental-1.4.0-3 C:\Users\GI0080\.gradle\caches\8.9\transforms\0fd3a12943892dc0b274f1abe0d9d996\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.voipsim.app-jetified-emoji2-views-helper-1.3.0-4 C:\Users\GI0080\.gradle\caches\8.9\transforms\12bc23e7ea04c8c54f949f2aa5eb4aae\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.voipsim.app-jetified-room-ktx-2.6.1-5 C:\Users\GI0080\.gradle\caches\8.9\transforms\247d3ec3a75e1ca218d47da862fcce5d\transformed\jetified-room-ktx-2.6.1\res
+com.example.voipsim.app-sqlite-2.4.0-6 C:\Users\GI0080\.gradle\caches\8.9\transforms\351c7bf3c90f5591ad3d5d3dba94957b\transformed\sqlite-2.4.0\res
+com.example.voipsim.app-jetified-savedstate-1.2.1-7 C:\Users\GI0080\.gradle\caches\8.9\transforms\38aa71a7b7f33e312b01f54205be0740\transformed\jetified-savedstate-1.2.1\res
+com.example.voipsim.app-recyclerview-1.3.2-8 C:\Users\GI0080\.gradle\caches\8.9\transforms\3980738566ec0e07f5242cb8c830c04e\transformed\recyclerview-1.3.2\res
+com.example.voipsim.app-drawerlayout-1.1.1-9 C:\Users\GI0080\.gradle\caches\8.9\transforms\3f55a415d7735d361e094898b5c3f5d4\transformed\drawerlayout-1.1.1\res
+com.example.voipsim.app-core-1.13.1-10 C:\Users\GI0080\.gradle\caches\8.9\transforms\3f9f2dfc84c957d2f35c6e2d1e03d200\transformed\core-1.13.1\res
+com.example.voipsim.app-fragment-1.5.4-11 C:\Users\GI0080\.gradle\caches\8.9\transforms\417ddb7ee6aa08d8503e84eaafa5de3e\transformed\fragment-1.5.4\res
+com.example.voipsim.app-sqlite-framework-2.4.0-12 C:\Users\GI0080\.gradle\caches\8.9\transforms\5137972a2756e9fd6ffe0b7e74d759b5\transformed\sqlite-framework-2.4.0\res
+com.example.voipsim.app-jetified-lifecycle-viewmodel-release-13 C:\Users\GI0080\.gradle\caches\8.9\transforms\57a2e91cb048adfcf6b8c32c655203aa\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.voipsim.app-material-1.12.0-14 C:\Users\GI0080\.gradle\caches\8.9\transforms\5c5ce964e478341a7eca8a12a585648f\transformed\material-1.12.0\res
+com.example.voipsim.app-jetified-customview-poolingcontainer-1.0.0-15 C:\Users\GI0080\.gradle\caches\8.9\transforms\65c20bc13fb567cab6ab0c389a07d21c\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.voipsim.app-jetified-startup-runtime-1.1.1-16 C:\Users\GI0080\.gradle\caches\8.9\transforms\71302a9830ec8bccc52cc4850d35ff6d\transformed\jetified-startup-runtime-1.1.1\res
+com.example.voipsim.app-transition-1.5.0-17 C:\Users\GI0080\.gradle\caches\8.9\transforms\7631f46092085eb6c5a8527d49540ea1\transformed\transition-1.5.0\res
+com.example.voipsim.app-jetified-lifecycle-service-2.8.4-18 C:\Users\GI0080\.gradle\caches\8.9\transforms\871b7a47f72d9c7edbe69c1b25bea96d\transformed\jetified-lifecycle-service-2.8.4\res
+com.example.voipsim.app-jetified-lifecycle-viewmodel-savedstate-2.8.4-19 C:\Users\GI0080\.gradle\caches\8.9\transforms\874640793465071b1f9c8c66d50b232a\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.4\res
+com.example.voipsim.app-jetified-appcompat-resources-1.7.0-20 C:\Users\GI0080\.gradle\caches\8.9\transforms\8855b5dd8b92f4d8f9416dcf0146eefe\transformed\jetified-appcompat-resources-1.7.0\res
+com.example.voipsim.app-work-runtime-2.9.0-21 C:\Users\GI0080\.gradle\caches\8.9\transforms\969119c6e748cd40220f395434a89979\transformed\work-runtime-2.9.0\res
+com.example.voipsim.app-jetified-viewpager2-1.1.0-beta02-22 C:\Users\GI0080\.gradle\caches\8.9\transforms\9a40a657948c80ecf9b3e8dd93b5c225\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.example.voipsim.app-lifecycle-livedata-core-2.8.4-23 C:\Users\GI0080\.gradle\caches\8.9\transforms\9b62ec47dc258fd1f121ce4453e26659\transformed\lifecycle-livedata-core-2.8.4\res
+com.example.voipsim.app-room-runtime-2.6.1-24 C:\Users\GI0080\.gradle\caches\8.9\transforms\a0b60a2d7a05c041d34c07eecfa06acd\transformed\room-runtime-2.6.1\res
+com.example.voipsim.app-constraintlayout-2.1.4-25 C:\Users\GI0080\.gradle\caches\8.9\transforms\a759b22a7d77cb4969c70a15e8834f5f\transformed\constraintlayout-2.1.4\res
+com.example.voipsim.app-appcompat-1.7.0-26 C:\Users\GI0080\.gradle\caches\8.9\transforms\a7ac7c7ce55c2889024674dff0ba2d25\transformed\appcompat-1.7.0\res
+com.example.voipsim.app-jetified-activity-1.8.0-27 C:\Users\GI0080\.gradle\caches\8.9\transforms\b1422d66eed65072344823f31bca5721\transformed\jetified-activity-1.8.0\res
+com.example.voipsim.app-core-runtime-2.2.0-28 C:\Users\GI0080\.gradle\caches\8.9\transforms\b6f033c8627a0693994ee2353b16d7e2\transformed\core-runtime-2.2.0\res
+com.example.voipsim.app-jetified-lifecycle-runtime-release-29 C:\Users\GI0080\.gradle\caches\8.9\transforms\b844656473a1c84b045d5cf988b380e9\transformed\jetified-lifecycle-runtime-release\res
+com.example.voipsim.app-jetified-profileinstaller-1.3.1-30 C:\Users\GI0080\.gradle\caches\8.9\transforms\c897979cb691a5762b926c5e16c16df4\transformed\jetified-profileinstaller-1.3.1\res
+com.example.voipsim.app-jetified-lifecycle-process-2.8.4-31 C:\Users\GI0080\.gradle\caches\8.9\transforms\dee26fd172ce6ca3e1d08b782c715e72\transformed\jetified-lifecycle-process-2.8.4\res
+com.example.voipsim.app-jetified-lifecycle-livedata-core-ktx-2.8.4-32 C:\Users\GI0080\.gradle\caches\8.9\transforms\e7b7381fe89e1f7f7151124b4d8107f7\transformed\jetified-lifecycle-livedata-core-ktx-2.8.4\res
+com.example.voipsim.app-lifecycle-livedata-2.8.4-33 C:\Users\GI0080\.gradle\caches\8.9\transforms\f3ab4151c1a93271072d8228568f0fe8\transformed\lifecycle-livedata-2.8.4\res
+com.example.voipsim.app-jetified-emoji2-1.3.0-34 C:\Users\GI0080\.gradle\caches\8.9\transforms\fe3b67fa0a8ab54a2c71bcca72794307\transformed\jetified-emoji2-1.3.0\res
+com.example.voipsim.app-pngs-35 D:\NHAI Doc\VoIPSim\app\build\generated\res\pngs\debug
+com.example.voipsim.app-resValues-36 D:\NHAI Doc\VoIPSim\app\build\generated\res\resValues\debug
+com.example.voipsim.app-packageDebugResources-37 D:\NHAI Doc\VoIPSim\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.voipsim.app-packageDebugResources-38 D:\NHAI Doc\VoIPSim\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.voipsim.app-merged_res-39 D:\NHAI Doc\VoIPSim\app\build\intermediates\merged_res\debug
+com.example.voipsim.app-debug-40 D:\NHAI Doc\VoIPSim\app\src\debug\res
+com.example.voipsim.app-main-41 D:\NHAI Doc\VoIPSim\app\src\main\res

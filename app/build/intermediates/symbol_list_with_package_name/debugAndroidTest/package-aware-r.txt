@@ -1,0 +1,3 @@
+com.example.voipsim.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
